@@ -1,0 +1,867 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=Content-Type content="application/msword; charset=UTF-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Universal Post Manager by">
+<meta name=Originator content="ProfProjects.com">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>RU</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="true" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<title>Шпаргалка по синтаксису markdown (маркдаун) со всеми самыми популярными тегами : Огонёк : http://ilfire.ru</title>
+<style>
+
+<!--
+
+div.Section1
+
+	{page:Section1;}
+
+
+
+-->
+</style>
+</head>
+<body link=blue vlink=purple style='tab-interval:35.4pt;text-align:left'>
+<div class=Section1 style="text-align:left">
+
+	
+		<p style="background:#F9F9F9">
+		<span style='font-size:9.0pt;color:#000000;'>
+		This page was exported from Огонёк 
+		[ </span>
+		<span style='font-size:9.0pt;color:#000000'>
+			<a href="http://ilfire.ru" target="_blank">
+				http://ilfire.ru
+			</a>
+		</span>
+		<span style='font-size:9.0pt;color:#000000;'> ]
+		<br>
+		Export date: Thu Apr 13 11:11:07 2023 / +0000  GMT 
+		<o:p></o:p>
+		</span>
+		</p>
+		
+		<h2 style="color:#000000;text-align:left">Шпаргалка по синтаксису markdown (маркдаун) со всеми самыми популярными тегами</h2><br>
+	
+	  <p>
+	  <span style='font-size:10.5pt;color:#000000;'>
+		<br>
+		<p><code><img src="http://ilfire.ru/wp-content/uploads/2015/12/markdown-mark.png" alt="markdown" title="markdown" /></code>
+<strong>Markdown (маркдаун)</strong> — облегчённый язык разметки созданный с целью написания максимально читабельного и удобного для правки текста, но пригодного для преобразования в языки для продвинутых публикаций (HTML, Rich Text и др.). Ниже будет приведена <strong>шпаргалка по синтаксису markdown</strong> со всеми самыми популярными <strong>тегами маркдаун</strong>.</p>
+
+<hr>
+
+<h1>СОДЕРЖАНИЕ</h1>
+
+<ul>
+    <li><a href="#link1">Содержание в виде ссылок по тексту (якоря)</a></li>
+    <li><a href="#link2">Якоря в Markdown (маркдаун)</a></li>
+    <li><a href="#link2-2">Тэг читать далее (cut) в Markdown (маркдаун)</a></li>
+    <li><a href="#link3">Заголовки</a></li>
+    <li><a href="#link4">Списки</a></li>
+    <li><a href="#link5">Горизонтальные линии</a></li>
+    <li><a href="#link6">Абзацы, параграфы</a></li>
+    <li><a href="#link7">Перенос строки</a></li>
+    <li><a href="#link8">Курсивное и жирное выделение текста</a></li>
+    <li><a href="#link9">Выделение текст или код</a></li>
+    <li><a href="#link10">Отмена форматирования</a></li>
+    <li><a href="#link11">Цитаты</a></li>
+    <li><a href="#link12">Ссылки</a></li>
+    <li><a href="#link13">Сноски</a></li>
+    <li><a href="#link14">Изображения</a></li>
+    <li><a href="#link15">Таблицы</a></li>
+    <li><a href="#link16">Спецсимволы</a></li>
+    <li><a href="#link17">Списки определений</a></li>
+    <li><a href="#link18">Спойлер</a></li>
+    <li><a href="#link19">Использование HTML</a></li>
+    <li><a href="#link20">Рекомендуемый мной онлайн редактор Markdown</a></li>
+    <li><a href="#link21">Рекомендуемый плагин для wordpress</a></li>
+    <li><a href="#link22">Официальный сайт Markdown</a></li>
+</ul>
+
+<!--more-->
+
+<p><a name="link1"></a></p>
+
+<h2>Содержание в виде ссылок по тексту (якоря) (работает не со всеми плагинами wordpress)</h2>
+
+<p>Маркдаун может генерировать содержание статьи автоматически основываясь на заголовках, при этом якоря создаются также автоматически. В месте вывода содержания укажите тег <code>[TOC]</code>. В результате, вы получите список как сверху (в этой статье содержание реализовано другим способом)</p>
+
+<hr>
+
+<p><a name="link2"></a></p>
+
+<h2>Якоря в Markdown (маркдаун)</h2>
+
+<p>Поместите в нужном месте якорь: <code>&lt;a name="abcd"&gt;&lt;/a&gt;</code>, и, там где это необходимо, ссылку на этот якорь: <code><a href="#abcd">Текст ссылки</a></code>.
+Пример использования таких якорей видно в содержании этой статьи.</p>
+
+<hr>
+
+<p><a name="link2-2"></a></p>
+
+<h2>Тэг читать далее (cut) в Markdown (маркдаун)</h2>
+
+<p>Чтобы в маркдауне поставить тэг Читать далее, достаточно в строчке написать <code>&lt;!--more--&gt;</code></p>
+
+<hr>
+
+<p><a name="link3"></a></p>
+
+<h2>Заголовки</h2>
+
+<p>Для того чтобы написать заголовок в Markdown, необходимо использовать знак # (хэш). Если необходимо несколько уровней заголовков, h1 - h6, нужно изменить количество хэшей (#) перед текстом заголовка.</p>
+
+<pre>&lt;code&gt;# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6  
+Альтернативные теги для H1 и H2 (знаки равно или минусы под заголовком + пустая строчка над загаловком):
+
+Альтернативный-H1
+======
+
+Альтернативный-H2
+------
+&lt;/code&gt;</pre>
+
+<h1>H1</h1>
+
+<h2>H2</h2>
+
+<h3>H3</h3>
+
+<h4>H4</h4>
+
+<h5>H5</h5>
+
+<h6>H6</h6>
+
+<p>Альтернативные теги для H1 и H2 (знаки равно или минусы под заголовком + пустая строчка над загаловком):</p>
+
+<h1>Альтернативный-H1</h1>
+
+<h2>Альтернативный-H2</h2>
+
+<hr>
+
+<p><a name="link4"></a></p>
+
+<h2>Списки</h2>
+
+<p>Markdown поддерживает два вида списков: маркерованный и нумерованный. Для организации маркерованного списка используются знаки *, + и -. От них зависит вид маркеров. Чтоб сделать многоуровневый список, нужно будет сделать отступы (4 или 8 пробелов).</p>
+
+<pre>&lt;code&gt;1. Первый пункт списка
+2. Второй пункт
+⋅⋅⋅* Немаркерованный вложенный подпункт. 
+1. Номер не имеет значения, нужно чтобы это была просто любая цифра
+⋅⋅⋅1. Маркерованный вложенный подпункт.
+4. Тут другой пункт.
+
+⋅⋅⋅Можно вставлять в список отдельный абзац. Но, обратите внимание на пустую строчку сверху и пробелы перед строчкой.
+
+⋅⋅⋅Чтобы вставить абзац без пустой строчки сверху, нужно в конце строки поставить два пробела.⋅⋅
+⋅⋅⋅Обратите внимания что эта строчка отдельная, хотя находится в том же абзаце.⋅⋅
+⋅⋅⋅В этой строчке пробелы в конце строчки не требуются.
+
+* Для ненумерованных списков можно использовать звёздочки
+- Или минусы
++ Или плюсы
+&lt;/code&gt;</pre>
+
+<ol>
+    <li>Первый пункт списка</li>
+    <li>Второй пункт
+<ul>
+    <li>Немаркерованный вложенный подпункт.</li>
+</ul>
+</li>
+    <li>Номер не имеет значения, нужно чтобы это была просто любая цифра
+<ol>
+    <li>Маркерованный вложенный подпункт.</li>
+</ol>
+</li>
+    <li>Тут другой пункт.Можно вставлять в список отдельный абзац. Но, обратите внимание на пустую строчку сверху и пробелы перед строчкой.Чтобы вставить абзац без пустой строчки сверху, нужно в конце строки поставить два пробела.
+Обратите внимания что эта строчка отдельная, хотя находится в том же абзаце.
+В этой строчке пробелы в конце строчки не требуются.</li>
+</ol>
+
+<ul>
+    <li>Для ненумерованных списков можно использовать звёздочки</li>
+    <li>Или минусы</li>
+    <li>Или плюсы</li>
+</ul>
+
+<hr>
+
+<p><a name="link5"></a></p>
+
+<h2>Горизонтальные линии</h2>
+
+<p>Создать горизонтальную линию можно поместив три или больше звездочек *, минусов - или подчеркиваний _ на отдельной строке.</p>
+
+<pre>&lt;code&gt;***
+&lt;/code&gt;</pre>
+
+<p>но вы можете разделять символы пробелами, чтобы сделать линию более очевидной в процессе редактирования документа.</p>
+
+<pre>&lt;code&gt;* * * * *  
+-------------------------  
+_ _ _ _ _  
+&lt;/code&gt;</pre>
+
+<p>Каждая из приведенных выше строк даст одинаковый результат. Вот такой:</p>
+
+<hr>
+
+<p><a name="link6"></a></p>
+
+<h2>Абзацы, параграфы</h2>
+
+<p>В маркдаун все блочные элементы (заголовки, списки, абзацы и т.д.) — все, что визуально начинается с новой строки отбивается пустой строкой. Для вставки пустой строки необходимо два раза поставить символ переноса строки (нажать на Enter)</p>
+
+<hr>
+
+<p><a name="link7"></a></p>
+
+<h2>Перенос строки</h2>
+
+<p>Перенос строки всегда игнорируется. Это делается для того, чтобы, например, была возможность при наборе держать определенную длину строки, скажем в 80 символов.</p>
+
+<p>Т.к. маркдаун создавался с целью быть удобночитаемым, его нередко используют в текстовых документах и для комфорта читателя лучше не давать тексту расплываться соплёй по экрану.</p>
+
+<p>Для переноса строки внутри абзаца нужно использовать два пробела ⋅⋅ в конце строки.</p>
+
+<hr>
+
+<p><a name="link8"></a></p>
+
+<h2>Курсивное и жирное выделение текста</h2>
+
+<p>Для курсива необходимо поставить знаки * <em>вокруг текста</em>. Для жирного начертания обрамим текст <strong>двумя звездочками</strong>, а для <strong><em>жирного курсива - тремя</em></strong>. Алтернативный синтаксис - использование знака _ по тем же правилам.</p>
+
+<pre>&lt;code&gt;___жирный курсив___
+&lt;/code&gt;</pre>
+
+<hr>
+
+<p><a name="link9"></a></p>
+
+<h2>Выделение текст или код</h2>
+
+<p>Выделить <code>текст</code> или <code>часть кода</code> можно с помощью символа гравис (обратный апостроф) <code>&lt;pre&gt;&amp;lt;code&amp;gt;Выделить</code>текст<code>или</code>часть кода<code>можно с помощью символа гравис (обратный апостроф)</code>
+&lt;/code&gt;</pre>
+Для выделения блока кода используют три символа в строчке до и после блока кода:</p>
+
+<pre>&lt;code&gt;```
+$a = 5; 
+$b = 3; 
+$c = $a + $b;
+```
+&lt;/code&gt;</pre>
+
+<hr>
+
+<p><a name="link10"></a></p>
+
+<h2>Отмена форматирования</h2>
+
+<p>Если вы хотите, чтобы введенные теги HTML, код, теги маркдауна отображались в точности как вы их написали, то начните каждую строку с четырех пробелов.</p>
+
+<pre>&lt;code&gt;⋅⋅⋅⋅тут должен быть **жирный текст**, но я поставил 4 пробела в начале стрки
+&lt;/code&gt;</pre>
+
+<hr>
+
+<p><a name="link11"></a></p>
+
+<h2>Цитаты</h2>
+
+<p>Для обозначения цитат достаточно поставить знак <code>&gt;</code> в начале строки</p>
+
+<pre>&lt;code&gt;&amp;gt; Это простая цитата⋅⋅  
+Состоящая из двух строк
+&lt;/code&gt;</pre>
+
+<blockquote>Это простая цитата
+Состоящая из двух строк</blockquote>
+
+<p>(напомню, для переноса строчки я использую два пробела в конце строчки)
+Цитаты можно вкладывать друг в друга:</p>
+
+<pre>&lt;code&gt;&amp;gt; Это просто цитата
+&amp;gt;
+&amp;gt; &amp;gt; А это уже вложенная цитата
+&lt;/code&gt;</pre>
+
+<blockquote>Это просто цитата
+<blockquote>А это уже вложенная цитата</blockquote>
+</blockquote>
+
+<hr>
+
+<p><a name="link12"></a></p>
+
+<h2>Ссылки</h2>
+
+<p>Существует два варианта оформления ссылок. Первый - обычная вставка в текст:</p>
+
+<pre>&lt;code&gt;[Текст ссылки](адрес &quot;Описание&quot;)
+&lt;/code&gt;</pre>
+
+<p><a href="адрес" title="Описание">Текст ссылки</a></p>
+
+<p>и второй вариант - оформление ссылки в виде сноски. Когда в текст вставляется конструкция вида:</p>
+
+<pre>&lt;code&gt;[Текст ссылки][Тег1]
+&lt;/code&gt;</pre>
+
+<p>... Указывающая, что именно в этом место будет располагаться ссылка, а где-нибудь ниже её описание:</p>
+
+<pre>&lt;code&gt;[Тег1][Адрес ссылки]
+&lt;/code&gt;</pre>
+
+<p>Результат выполнение будет аналогичен первому варианту, но такое оформление удобнее с точки зрения дальнейшей поддержки и редактирования.</p>
+
+<pre>&lt;code&gt;I get 10 times more traffic from [Google][1] than from
+[Yahoo][2] or [MSN][3].
+
+[1]: http://google.com/        &quot;Google&quot;
+[2]: http://search.yahoo.com/  &quot;Yahoo Search&quot;
+[3]: http://search.msn.com/    &quot;MSN Search&quot;
+&lt;/code&gt;</pre>
+
+<p>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from
+<a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+
+<hr>
+
+<p><a name="link13"></a></p>
+
+<h2>Сноски</h2>
+
+<p>Сноски и примечания<sup id="fnref-228:1"><a href="#fn-228:1" rel="footnote">1</a></sup> задаются так<sup id="fnref-228:2"><a href="#fn-228:2" rel="footnote">2</a></sup>:</p>
+
+<pre>&lt;code&gt;Сноски и примечания[^1] задаются так[^2]:
+// пустая строка обязательно
+[^1]: Все сноски отображаются в конце страницы
+[^2]: Просто не так ли?)
+&lt;/code&gt;</pre>
+
+<hr>
+
+<p><a name="link14"></a></p>
+
+<h2>Изображения</h2>
+
+<p>Изображения помещаются на страницу также, как и ссылки, с одним отличием: в начале записи используется знак <code>!</code></p>
+
+<pre>&lt;code&gt;![Alt-текст](Путь к файлу &quot;Подпись&quot;)
+&lt;/code&gt;</pre>
+
+<p>Вставка реального изображения может выглядеть как-то так:</p>
+
+<pre>&lt;code&gt;![mountains](/img/mountan.png &quot;Пейзаж с горами&quot;)
+&lt;/code&gt;</pre>
+
+<p>Создадим картинку, которая является еще и ссылкой на какую-нибудь страницу в сети:</p>
+
+<pre>&lt;code&gt;[Поисковая система Google][google]
+![Логотип Google][logo]
+&lt;/code&gt;</pre>
+
+<p>Выше приведены обычная ссылка и обычное изображение. Вы можете поместите картинку туда, где указан текст ссылки, например:</p>
+
+<pre>&lt;code&gt;[![Логотип Google][logo]][google]
+&lt;/code&gt;</pre>
+
+<p>Нужно помнить, что приведенные выше ссылки должны быть определены где-либо в документе:</p>
+
+<pre>&lt;code&gt;[logo]: http://www.google.com/images/logo.gif
+[google]: http://www.google.com/ &quot;щелкните, чтобы посетить Google.com&quot;
+&lt;/code&gt;</pre>
+
+<p>Такое совмещение создает картинку, щелчок по которой переместит вас на указанную ссылку:</p>
+
+<p><a href="http://www.google.com/" title="щелкните, чтобы посетить Google.com"><img src="http://www.google.com/images/logo.gif" alt="Логотип Google"></a></p>
+
+<hr>
+
+<p><a name="link15"></a></p>
+
+<h2>Таблицы  (работает не со всеми плагинами wordpress)</h2>
+
+<p>Создание таблиц с Markdown намного нагляднее, чем в HTML. Форматирование интуитивно понятно, добавлю только что для выравнивания текста внутри ячеек используются знаки : в строке, отделяющей заголовок от основной таблицы.</p>
+
+<pre>&lt;code&gt;Item      | Value | Quantity
+:-------- |:-----:| -------:
+Computer  | 1600  | 3
+Phone     | 12    | 2
+Pipe      | 1     | 1
+&lt;/code&gt;</pre>
+
+<table>
+<thead>
+<tr>
+  <th align="left">Item</th>
+  <th align="center">Value</th>
+  <th align="right">Quantity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="left">Computer</td>
+  <td align="center">1600</td>
+  <td align="right">3</td>
+</tr>
+<tr>
+  <td align="left">Phone</td>
+  <td align="center">12</td>
+  <td align="right">2</td>
+</tr>
+<tr>
+  <td align="left">Pipe</td>
+  <td align="center">1</td>
+  <td align="right">1</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+<p><a name="link16"></a></p>
+
+<h2>Спецсимволы</h2>
+
+<p>Если вы хотите отобразить любой из специальных символов Markdown вместо того, чтобы использовать его для форматирования, просто поставьте перед ним символ обратной косой черты (&#41;. Сама косая черта не отображается, однако следующий за ней символ будет показан как есть: &#42;</p>
+
+<hr>
+
+<p><a name="link17"></a></p>
+
+<h2>Списки определений</h2>
+
+<p>Списки определений содержат термины и их описания. Это выглядит подобно словарю. Ниже простой пример:</p>
+
+<pre>&lt;code&gt;Moodle
+:   Хорошо известная платформа для онлайнового обучения
+
+PHP
+:   Язык программирования.
+    Часто используется для разработки интерактивных веб-приложений.
+&lt;/code&gt;</pre>
+
+<dl>
+    <dt>Moodle</dt>
+    <dd>Хорошо известная платформа для онлайнового обучения</dd>
+    <dt>PHP</dt>
+    <dd>Язык программирования.
+Часто используется для разработки интерактивных веб-приложений.</dd>
+</dl>
+
+<hr>
+
+<p><a name="link18"></a></p>
+
+<h2>Спойлер  (работает не со всеми плагинами wordpress)</h2>
+
+<p>Скрываем большие объемы текстовой и графической информации с помощью Advanced Spoiler, который уже 2 года не обновляется и работает не везде.</p>
+
+<pre>&lt;code&gt;[spoiler]тут текст[/spoiler]
+&lt;/code&gt;</pre>
+
+<p>[spoiler]тут текст[/spoiler]</p>
+
+<hr>
+
+<p><a name="link19"></a></p>
+
+<h2>Использование HTML</h2>
+
+<p>Если вы являетесь специалистом в HTML, то можете обнаружить, что Markdown не дает вам всех возможностей, которые вы бы хотели. К счастью Markdown разрабатывался с учетом этого и позволяет вставлять теги HTML непосредственно в форматируемый текст.</p>
+
+<pre>&lt;code&gt;* &amp;lt;small&amp;gt;мелкий текст&amp;lt;/small&amp;gt;
+* &amp;lt;big&amp;gt;крупный текст&amp;lt;/big&amp;gt;
+&lt;/code&gt;</pre>
+
+<ul>
+    <li><small>мелкий текст</small></li>
+    <li><big>крупный текст</big></li>
+</ul>
+
+<p>Имейте в виду, что HTML-разметка сосуществует с разметкой Markdown. Это освобождает вас от необходимости использовать HTML для основных элементов оформления, таких как параграфы, списки и т.п., однако в необходимых случаях позволяет использовать все возможности HTML.</p>
+
+<hr>
+
+<p><a name="link20"></a></p>
+
+<h2>Рекомендуемый мной онлайн редактор Markdown</h2>
+
+<p>http://dillinger.io/</p>
+
+<hr>
+
+<p><a name="link21"></a></p>
+
+<h2>Рекомендуемый плагин для wordpress</h2>
+
+<ul>
+    <li>WP - Markdown on Save Improved</li>
+    <li>Markdown Shortcode - позволяет вставить синтаксис маркдауна в части статьи. Код обрамляется тэгами: <h1>via shortcode</h1></li>
+</ul>
+
+<hr>
+
+<p><a name="link22"></a></p>
+
+<h2>Официальный сайт Markdown</h2>
+
+<p>http://daringfireball.net/projects/markdown/</p>
+
+<div class="footnotes">
+
+<hr>
+
+<ol>
+    <li id="fn-228:1">Все сноски отображаются в конце страницы&nbsp;<a href="#fnref-228:1" rev="footnote">↩</a></li>
+    <li id="fn-228:2">Просто не так ли?)&nbsp;<a href="#fnref-228:2" rev="footnote">↩</a></li>
+</ol>
+</div>
+
+	  </span>
+	  </p>
+
+<p><o:p>&nbsp;</o:p></p>
+<p><o:p>&nbsp;</o:p></p>
+		  <p>
+		  <span style='font-size:10.0pt;color:#000000'> 
+		  
+		  </span>
+		  </p>
+<br/>
+		
+			  <p style="background:#F9F9F9">
+				  <span style='font-size:10.0pt;color:#000000;'>
+					
+					 
+					<o:p></o:p>
+				   </span>
+			  </p>
+		
+		<p style="background:#F9F9F9">
+			<span style='font-size:9.0pt;color:#000000;'>
+			Powered by [ Universal Post Manager ] plugin. MS Word saving format developed by gVectors Team
+			</span>
+			<span style='font-size:9.0pt;color:#000000'>
+			<a href="http://www.gvectors.com" target="_blank">
+			www.gVectors.com
+			</a>
+			</span>
+		</p>
+
+
+<p><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
